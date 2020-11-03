@@ -14,7 +14,7 @@ body {
 }
 
 body:after {
-    content: "Thanks to Unsplash (background image)";
+    content: "Thanks for visiting.";
     position: fixed;
     left: 0;
     bottom: 0;
